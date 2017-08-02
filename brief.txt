@@ -1,0 +1,9 @@
+Favorite music bands applications
+
+-favorite bands
+  band name=""
+  albums = []
+  album_logo = ""
+  year = ""
+
+-Taxi requisition
